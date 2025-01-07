@@ -6,9 +6,8 @@ There will be three pages all stuck together.
 3.A simple proxy,by Exploit-Master12             (Proxy that works,but only on .io games and websites.)
 On some versions,Github.io websites are blocked because of games and unblockers,and things like that,so,I remade it in playcode.io
 
-2.
-Beware:Only use this as a last resort for unblocking your computer.Think about what will happen if anyone finds out.Don't say I didn't warn you.None of the trouble that you get in is my decision.I am not liable to the damages of your property.
-So:    If you press Esc+↻+⏻  (Escape,reload,power button) and then spam Control+d ,then YOUR COMPUTER IS NO LONGER MANAGED!!! =-) You have successfully unenrolled and rebooted your computer!
+2.Beware:Only use this as a last resort for unblocking your computer.Think about what will happen if anyone finds out.Don't say I didn't warn you.None of the trouble that you get in is my decision.I am not liable to the damages of your property.
+So:   If you press Esc+↻+⏻  (Escape,reload,power button) and then spam Control+d ,then YOUR COMPUTER IS NO LONGER MANAGED!!! =-) You have successfully unenrolled and rebooted your computer!
 
 
 3. Right click the bookmarks bar.
